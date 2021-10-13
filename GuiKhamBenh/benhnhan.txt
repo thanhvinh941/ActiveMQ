@@ -1,0 +1,13 @@
+
+Mã số bệnh nhân: BN001
+Số CMND: 241925947
+Họ và tên: Trương Thanh Vinh
+Địa chỉ: Đak Lak
+Thông tin khám bệnh: Gãy tay
+Ngày Khám: Mon Oct 11 11:51:36 ICT 2021
+Mã số bệnh nhân: BN001
+Số CMND: 241925947
+Họ và tên: Trương Thanh Vinh
+Địa chỉ: Đắk Lắk
+Thông tin khám bệnh: Gãy tay
+Ngày Khám: Mon Oct 11 11:54:19 ICT 2021
