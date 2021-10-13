@@ -1,0 +1,12 @@
+C:\Users\truon\source\repos\KhamBenh\BenhNhanObject\bin\Debug\BenhNhanObject.dll
+C:\Users\truon\source\repos\KhamBenh\BenhNhanObject\bin\Debug\BenhNhanObject.pdb
+C:\Users\truon\source\repos\KhamBenh\BenhNhanObject\obj\Debug\BenhNhanObject.csproj.AssemblyReference.cache
+C:\Users\truon\source\repos\KhamBenh\BenhNhanObject\obj\Debug\BenhNhanObject.csproj.CoreCompileInputs.cache
+C:\Users\truon\source\repos\KhamBenh\BenhNhanObject\obj\Debug\BenhNhanObject.dll
+C:\Users\truon\source\repos\KhamBenh\BenhNhanObject\obj\Debug\BenhNhanObject.pdb
+D:\C# Code\KhamBenh\BenhNhanObject\bin\Debug\BenhNhanObject.dll
+D:\C# Code\KhamBenh\BenhNhanObject\bin\Debug\BenhNhanObject.pdb
+D:\C# Code\KhamBenh\BenhNhanObject\obj\Debug\BenhNhanObject.csproj.AssemblyReference.cache
+D:\C# Code\KhamBenh\BenhNhanObject\obj\Debug\BenhNhanObject.csproj.CoreCompileInputs.cache
+D:\C# Code\KhamBenh\BenhNhanObject\obj\Debug\BenhNhanObject.dll
+D:\C# Code\KhamBenh\BenhNhanObject\obj\Debug\BenhNhanObject.pdb

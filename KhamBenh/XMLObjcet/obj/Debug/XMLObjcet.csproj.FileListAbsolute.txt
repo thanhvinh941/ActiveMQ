@@ -1,0 +1,12 @@
+D:\C# Code\KhamBenh\XMLObjcet\bin\Debug\XMLObjcet.dll
+D:\C# Code\KhamBenh\XMLObjcet\bin\Debug\XMLObjcet.pdb
+D:\C# Code\KhamBenh\XMLObjcet\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\C# Code\KhamBenh\XMLObjcet\bin\Debug\Apache.NMS.dll
+D:\C# Code\KhamBenh\XMLObjcet\bin\Debug\Apache.NMS.pdb
+D:\C# Code\KhamBenh\XMLObjcet\bin\Debug\Apache.NMS.ActiveMQ.pdb
+D:\C# Code\KhamBenh\XMLObjcet\bin\Debug\Apache.NMS.ActiveMQ.xml
+D:\C# Code\KhamBenh\XMLObjcet\obj\Debug\XMLObjcet.csproj.AssemblyReference.cache
+D:\C# Code\KhamBenh\XMLObjcet\obj\Debug\XMLObjcet.csproj.CoreCompileInputs.cache
+D:\C# Code\KhamBenh\XMLObjcet\obj\Debug\XMLObjcet.csproj.CopyComplete
+D:\C# Code\KhamBenh\XMLObjcet\obj\Debug\XMLObjcet.dll
+D:\C# Code\KhamBenh\XMLObjcet\obj\Debug\XMLObjcet.pdb

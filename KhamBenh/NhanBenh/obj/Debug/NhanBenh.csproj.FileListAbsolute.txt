@@ -1,0 +1,35 @@
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\bin\Debug\NhanBenh.exe.config
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\bin\Debug\NhanBenh.exe
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\bin\Debug\NhanBenh.pdb
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\bin\Debug\BenhNhanObject.dll
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\bin\Debug\BenhNhanObject.pdb
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\obj\Debug\NhanBenh.csproj.AssemblyReference.cache
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\obj\Debug\NhanBenh.FormNhanBenh.resources
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\obj\Debug\NhanBenh.Properties.Resources.resources
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\obj\Debug\NhanBenh.csproj.GenerateResource.cache
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\obj\Debug\NhanBenh.csproj.CoreCompileInputs.cache
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\obj\Debug\NhanBenh.csproj.CopyComplete
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\obj\Debug\NhanBenh.exe
+C:\Users\truon\source\repos\KhamBenh\NhanBenh\obj\Debug\NhanBenh.pdb
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\NhanBenh.exe.config
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\NhanBenh.exe
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\NhanBenh.pdb
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\Apache.NMS.dll
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\BenhNhanObject.dll
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\XMLObjcet.dll
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\BenhNhanObject.pdb
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\XMLObjcet.pdb
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\Apache.NMS.pdb
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\Apache.NMS.ActiveMQ.pdb
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\Apache.NMS.ActiveMQ.xml
+D:\C# Code\KhamBenh\NhanBenh\obj\Debug\NhanBenh.csproj.AssemblyReference.cache
+D:\C# Code\KhamBenh\NhanBenh\obj\Debug\NhanBenh.FormNhanBenh.resources
+D:\C# Code\KhamBenh\NhanBenh\obj\Debug\NhanBenh.Properties.Resources.resources
+D:\C# Code\KhamBenh\NhanBenh\obj\Debug\NhanBenh.csproj.GenerateResource.cache
+D:\C# Code\KhamBenh\NhanBenh\obj\Debug\NhanBenh.csproj.CoreCompileInputs.cache
+D:\C# Code\KhamBenh\NhanBenh\obj\Debug\NhanBenh.csproj.CopyComplete
+D:\C# Code\KhamBenh\NhanBenh\obj\Debug\NhanBenh.exe
+D:\C# Code\KhamBenh\NhanBenh\obj\Debug\NhanBenh.pdb
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\PersonObject.dll
+D:\C# Code\KhamBenh\NhanBenh\bin\Debug\PersonObject.pdb
